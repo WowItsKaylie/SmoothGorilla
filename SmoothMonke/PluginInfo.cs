@@ -5,8 +5,8 @@
     /// </summary>
     internal class PluginInfo
     {
-        public const string GUID = "com.auralius.monkeytag.texturefiltering";
-        public const string Name = "Smooth Monke";
+        public const string GUID = "org.kaylie.gtag.smoothgorilla";
+        public const string Name = "SmoothGorilla";
         public const string Version = "2.0.0.0";
     }
 }
