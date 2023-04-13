@@ -1,4 +1,4 @@
-﻿namespace SmoothMonke
+﻿namespace SmoothGorilla
 {
     /// <summary>
     /// This class is used to provide information about your mod to BepInEx.
